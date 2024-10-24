@@ -9,9 +9,7 @@
         </p>
     </div>
     <div class="w-3/6 height-full">
-      <table>
-        tf
-      </table>
+      <img src="../assets/images/main/main1.jpg" alt="">
     </div>
   </main>
 </template>
