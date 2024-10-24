@@ -1,0 +1,101 @@
+{
+    "btn": {
+        "btn_text1": "Bog'lanish"
+    },
+    "navbar": {
+        "menu": {
+            "item1": "Asosiy",
+            "item2": "Biz haqimizda",
+            "item3": "Xizmatlar",
+            "item4": "FAQ"
+        }
+    },
+    "main": {
+        "title": "Dezinfeksiya xizmati",
+        "text": "Biz Toshkentda 10 yildan beri professional dezinfeksiya o'tkazib kelmoqdamiz, shuning uchun sizni zararkunandalardan bir martada qutqarishni bilamiz."
+    },
+    "about": {
+        "about_title": "Biz haqimizda",
+        "card-1": {
+            "title": "Tez xizmat ko'rsatish",
+            "text": "ARIZALAR 24 SOAT QABUL QILINADI. AGAR MUAMMO SHOSHILINCH BO'LSA, BIZ DARHOL KELAMIZ. LEKIN SIFAT A'LO BO'LIB QOLADI."
+        },
+        "card-2": {
+            "title": "Bizning tajribali mutaxassislar",
+            "text": "BIZNING XODIMLAR BARCHA ISHLARNI BAJARADI: HISOBOT, XONALARNI TAYYORLASH, QAYTA ISHLASH, YAKUNIY TOZALASH, SHAMOLLATISH VA NAZORAT TEKSHIRUVLARI."
+        },
+        "card-3": {
+            "title": "Qachonki sizga qulay bo'lsa",
+            "text": "O'ZINGIZGA QULAY VAQTDAN FOYDALANING VA BIZ BILAN BOG'LANING. BIZ SIZGA GARANTIYA VA SAMARALI NATIJA TA'MINLAYMIZ."
+        }
+    },
+    "benefits": {
+        "title": "Kloplar va zararkunandalardan xalos bo'ling!!!",
+        "text": "Bizning kompaniyamiz ko'p yillardan beri faoliyat yuritmoqda, mijozlarimiz bizdan mamnun."
+    },
+    "servises": {
+        "title": "Xizmatlar",
+        "subtitle": "Biz sizga samarali va kafolatlangan xizmatni taqdim etamiz.",
+        "card-1": {
+            "title": "Dezinfeksiya – Zararkunanda Mikroorganizmlarni Yo'q qilish",
+            "text": "Har qanday dezinfeksiya asosiy vazifasi xavfli mikroorganizmlarni yo'q qilishdir, ular infeksiyalar va kasalliklarni keltirib chiqarishi mumkin. Dezinfeksiya tadbirlari joyni mog'or, viruslar, zamburug'lar va bakteriyalardan xalos qiladi. Jarayon patogen organizmlardan tozalaydi, agar siz sababsiz o'zingizni yomon his qilsangiz, charchoq yoki zaiflik sezsangiz, dezinfektorlarni chaqirish kerak."
+        },
+        "card-2": {
+            "title": "Dezinsektsiya – Hasharotlarni Yo'q qilish",
+            "text": "«Dezinsektsiya» so'zi bilan ko'pchilik birinchi marta uchrashadi, qachonki ular kloplar, tarakanlar, chumolilar va boshqa hasharotlardan xalos bo'lish usulini izlashsa. Ular o'zlari yoqimsiz, ustiga ustak infeksiya tashuvchilari sifatida mashhur. Dezinsektsiya - bu hasharotlarni, ya'ni chivinlar, pashshalar, kloplar, tarakanlar, kuya, kanalar va boshqa hasharotlarni yo'q qilishdir. Maxsus asboblar, jumladan sovuq va issiq tuman generatorlari va professional insektitsidlar yordamida dezinsektsiya o'tkaziladi."
+        },
+        "card-3": {
+            "title": "Deratizatsiya — Kemiruvchilarni Yo'q qilish",
+            "text": "Toshkentda deratizatsiya - bu kemiruvchilarni yo'q qilishga qaratilgan bir qator murakkab choralardan iborat. Ma'lumki, kemiruvchilar juda chidamli mavjudotlar bo'lib, turli xil xavfli ta'sirlarga bardosh bera oladi. Shuning uchun ularni yo'q qilish uchun turli xil usullarni qo'llash kerak. Toshkentda deratizatsiya ko'p qavatli binolar, omborlar, do'konlar, umumiy ovqatlanish muassasalari, xususiy uylar va hovlilarida amalga oshiriladi."
+        }
+    },
+    "solutions": {
+        "title": "Xizmat turi",
+        "card-1": {
+            "title": "KLOPLAR",
+            "text": "To'shakda, yumshoq mebellarda, matolarda, eshik va oynalarning qutilari ostida yashaydi. Odamlar va issiq qonli hayvonlarning qoni bilan oziqlanadi. Allergiyani va kuchli psixologik noqulaylikni keltirib chiqaradi..."
+        },
+        "card-2": {
+            "title": "TARAKANLAR",
+            "text": "Ular kasalliklarni olib yuradilar. Yoriqlarda, plintuslar ostida, vannaxonada, shkaf ostida va boshqalarda yashaydi. Oziq-ovqatlar, maishiy chiqindilar, charm buyumlar va qog'oz bilan oziqlanadi..."
+        },
+        "card-3": {
+            "title": "CHAYONLAR",
+            "text": "Issiqsevar mavjudotlar, ular hasharotlar va o'rgimchaklar bilan oziqlanadi. Ular omborlarda va uylarda yashashi mumkin, ammo odatda ular yog'och binolarda uchraydi..."
+        },
+        "card-4": {
+            "title": "KEMIRUVCHILAR",
+            "text": "Eng keng tarqalganlari - kalamushlar va sichqonlar. Ular kasalliklarni olib yuradilar, har qanday yuzalar bo'ylab harakat qilishadi, devorlar va yopishlarda teshiklar ochib, binoning ishonchliligini pasaytiradi. Ular oziq-ovqat va maishiy chiqindilar bilan oziqlanadi..."
+        },
+        "card-5": {
+            "title": "BURGALAR",
+            "text": "Uy hayvonlari tanasida uydan kirib keladi, qo'shnilardan migratsiya qiladi. Yumshoq mebellarda, to'shakda, gilamlarda, yumshoq o'yinchoqlarda, plintuslar va eshik va oyna romlarining ostida yashaydi. Odamlar va hayvonlarning qoni bilan oziqlanadi. Kasalliklarni tarqatadi..."
+        }
+    },
+    "garanty": {
+        "title": "Rasmiy kafolat - 1 yil. Jismoniy va yuridik shaxslarga xizmat ko'rsatamiz. Xizmatlar litsenziyalangan!!!"
+    },
+    "faq": {
+        "title": "FAQ",
+        "item1": {
+            "title": "Zararkunandalarning yo'q qilinishi qanday amalga oshiriladi?",
+            "text": "Maxsus uskunalar yordamida insektitsidlar aerozol tumaniga aylantiriladi va devorlar, plintuslar va ko'rinmas bo'shliqlarning eng kichik yoriqlariga kiradi."
+        },
+        "item2": {
+            "title": "Siz foydalanadigan preparatlar xavflimi?",
+            "text": "Odamlar, uy hayvonlari va o'simliklar uchun preparatlar xavfli emas. Ammo davolashdan so'ng xonani 40 daqiqa davomida shamollatish kerak."
+        },
+        "item3": {
+            "title": "Mening uyimni tayyorlashim kerakmi?",
+            "text": "Asosan idishlar va shaxsiy gigiyena vositalarini izolyatsiya qilish kerak. Shuningdek, uy hayvonlarini ishlov berish paytida izolyatsiya qilish kerak. Mebel va maishiy texnikani siljitish talab qilinmaydi."
+        }
+    },
+    "contact": {
+        "title": "Ma'lumotlaringizni qoldiring",
+        "placeholder": "Ismingiz",
+        "btn_text": "Yuborish"
+    },
+    "footer": {
+        "location": "O'zbekiston, Toshkent shahri"
+    }
+}
